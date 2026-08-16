@@ -268,7 +268,7 @@ Contributed across the complete SDLC for multiple client-facing web projects, fo
 
 **Skills**
 
-`React.js` `JavaScript` `HTML5` `CSS3` `Responsive Design` `SEO` `Performance Optimization`
+`JavaScript` `HTML5` `CSS3` `Responsive Design` `SEO` `Performance Optimization`
 
 ---
 
@@ -366,9 +366,9 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
 
 ## GitHub Trophies
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyansusrivastava01&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
-</p>
+</p> -->
 
 ---
 
@@ -383,7 +383,14 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
 ## Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/priyansusrivastava01/priyansusrivastava01/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
+<picture>
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake-dark.svg"/>
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+<img alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/kashif7230/kashif7230/output/github-snake.svg"/>
+</picture>
 </p>
 
 ---
