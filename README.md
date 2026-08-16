@@ -31,11 +31,11 @@
   </a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyanshusrivastava01&label=PROFILE+VIEWS&color=6D28D9&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/priyanshusrivastava01?label=FOLLOWERS&style=for-the-badge&color=4C1D95&logo=github" />
   <img src="https://img.shields.io/github/stars/priyansusrivastava01?label=STARS&style=for-the-badge&color=312E81&logo=github" />
-</p>
+</p> -->
 
 ---
 
