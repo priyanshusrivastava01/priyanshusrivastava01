@@ -91,7 +91,7 @@ My approach combines **software engineering fundamentals, product thinking, clea
 ### Cloud, DevOps & Tooling
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,ibmcloud,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,vite,vscode&theme=dark" />
 </p>
 
 <p align="left">
