@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:priyanshusrivastava01@gmail.com">
+  <a href="https://priyanshusrivastavaportfolio01.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/priyanshusrivastava01/">
