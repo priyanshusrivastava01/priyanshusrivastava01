@@ -334,7 +334,7 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
 
 ## Coding Profiles
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-Profile-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
@@ -347,7 +347,7 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
   <a href="https://www.codechef.com/">
     <img src="https://img.shields.io/badge/CodeChef-Profile-1E1B4B?style=for-the-badge&logo=codechef&logoColor=white" />
   </a>
-</p>
+</p> -->
 
 ---
 
