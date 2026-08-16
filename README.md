@@ -47,7 +47,7 @@ My engineering focus is on transforming product requirements and client wirefram
 
 I also work with **AI API integrations**, including **Google Gemini and OpenAI**, with practical experience in prompt engineering and building AI-powered application experiences.
 
-My approach combines **software engineering fundamentals, product thinking, clean architecture, performance optimization, and attention to detail** to build systems that are not only visually polished but also reliable in production.
+My approach combines **software engineering fundamentals, product thinking, clean architecture, performance optimisation, and attention to detail** to build systems that are not only visually polished but also reliable in production.
 
 ### Engineering Focus
 
@@ -57,14 +57,14 @@ My approach combines **software engineering fundamentals, product thinking, clea
 - MongoDB and relational database integration
 - AI-powered product development
 - Google Gemini & OpenAI API integration
-- Responsive UI engineering and performance optimization
+- Responsive UI engineering and performance optimisation
 - GSAP, Three.js and Framer Motion animations
 - Cloud services, third-party integrations and production deployment
 - End-to-end product ownership
 
 ### Open To
 
-**Full Stack Engineering · Frontend Engineering · Software Engineering · AI Product Engineering · Product Engineering · Open Source**
+**Full Stack Engineering · Frontend Engineering · Backend Engineering · Software Engineering · AI Engineering · Open Source**
 
 ---
 
@@ -73,7 +73,7 @@ My approach combines **software engineering fundamentals, product thinking, clea
 ### Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,python,c,html,css&theme=dark" />
 </p>
 
 ### Frontend
