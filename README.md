@@ -332,7 +332,7 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
 
 ---
 
-## Coding Profiles
+<!-- <Coding Profiles> -->
 
 <!-- <p align="center">
   <a href="https://leetcode.com/">
@@ -349,11 +349,10 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
   </a>
 </p> -->
 
----
 
-## GitHub Analytics
+<!-- <GitHub Analytics> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=priyansusrivastava01&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&title_color=8B5CF6&icon_color=6D28D9&text_color=C4B5FD&bg_color=0D1117" height="180" />
   <img src="https://streak-stats.demolab.com?user=priyansusrivastava01&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" height="180" />
 </p>
@@ -362,9 +361,9 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansusrivastava01&layout=compact&hide_border=true&langs_count=10&title_color=8B5CF6&text_color=C4B5FD&bg_color=0D1117" height="180" />
 </p>
 
----
+--- -->
 
-## GitHub Trophies
+<!-- <GitHub Trophies> -->
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=priyansusrivastava01&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
@@ -372,11 +371,11 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
 
 ---
 
-## Contribution Activity
+<!-- <Contribution Activity> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansusrivastava01&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
-</p>
+</p> -->
 
 ---
 
@@ -423,5 +422,4 @@ Open To:
   - Frontend Engineering
   - Software Engineering
   - AI Engineering
-  - Product Engineering
   - Open Source Collaboration
