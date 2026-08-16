@@ -369,7 +369,7 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
   <img src="https://github-profile-trophy.vercel.app/?username=priyansusrivastava01&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=7" />
 </p> -->
 
----
+
 
 <!-- <Contribution Activity> -->
 
@@ -377,7 +377,7 @@ Worked with IBM Cloud and Watsonx while applying concepts from AI/ML, cloud comp
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansusrivastava01&bg_color=0D1117&color=C4B5FD&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </p> -->
 
----
+
 
 ## Contribution Snake
 
@@ -425,5 +425,6 @@ Open To:
   - Open Source Collaboration
 
 ```
+---
 
 ## Old Account got Hacked, this is my new Account..
